@@ -1,0 +1,42 @@
+export const TESTIMONIALS = [
+  {
+    id: 1,
+    name: 'Priya Mehta',
+    city: 'Anjar',
+    rating: 5,
+    occasion: 'Birthday Celebration',
+    text: 'The customized birthday cake was absolutely stunning. Beautifully crafted, completely eggless, and the taste was divine. My daughter was over the moon. Will always order from Baking Corner!',
+  },
+  {
+    id: 2,
+    name: 'Rohan Shah',
+    city: 'Anjar',
+    rating: 5,
+    occasion: 'Anniversary',
+    text: 'Ordered an anniversary cake with a personalized design. The attention to detail was incredible. It looked like a professional bakery cake but tasted even better — so fresh and homemade!',
+  },
+  {
+    id: 3,
+    name: 'Nisha Patel',
+    city: 'Adipur',
+    rating: 5,
+    occasion: 'Diwali Hampers',
+    text: 'The Diwali hampers were a huge hit with our family and clients. Beautifully packaged, premium quality, and every piece tasted amazing. Will definitely be ordering every year!',
+  },
+  {
+    id: 4,
+    name: 'Kavya Joshi',
+    city: 'Gandhidham',
+    rating: 5,
+    occasion: 'Baby Shower',
+    text: 'Got a pastel themed cake for my baby shower — it was more beautiful than I imagined! Everyone kept asking where I ordered it from. The freshness and quality are unmatched.',
+  },
+  {
+    id: 5,
+    name: 'Ankit Desai',
+    city: 'Adipur',
+    rating: 5,
+    occasion: 'Corporate Gifting',
+    text: 'Ordered brownies and cake jars for our office celebration. Every single piece was perfectly made. The packaging was elegant and everyone loved it. Perfect for gifting!',
+  },
+];
